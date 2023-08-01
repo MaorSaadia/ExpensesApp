@@ -24,6 +24,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row-reverse',
     justifyContent: 'space-between',
     alignItems: 'center',
+    marginBottom: 12,
   },
   period: {
     fontSize: 16,
